@@ -69,4 +69,4 @@ Providing credentials won't be needed, since you will only need mongodb registra
 
 ## We wish you good luck and happy coding.
 
-## Using AI generated code is not forbidden, although is highly not recommended and will lower your scoring.
+## Using AI generated code is not recommended, since it will lower your scoring significantly.
