@@ -59,16 +59,13 @@ Implement RESTful endpoints for:
 - Input validation
 - API documentation
 
-## MongoDB login credentials:
+## MongoDB instructions:
 
-We created a mongo db account with a temporary email for you to complete your task.
+Create a free MongoDB account in mongodb.com (you can use https://temp-mail.org/), just for the sake of this task.
 
-Inside only a cluster has been created, everything else like user permissions,
-connection to nodejs project is to be done by you.
+Create a cluster with the free cluster option and integrate the database in the nodejs project that you will be working on.
 
-email: tanibep504@camjoint.com
-pass: Asd1234567a
-
+Providing credentials won't be needed, since you will only need mongodb registration to make the execution of the task easier and testable.
 
 ## We wish you good luck and happy coding.
 
